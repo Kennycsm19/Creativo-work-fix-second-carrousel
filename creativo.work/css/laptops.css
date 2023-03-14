@@ -1,0 +1,20 @@
+@media (min-width: 1360px){
+  .groupheadtwo {
+      display: flex;
+      width: 884px;
+      justify-content: space-evenly;
+      align-items: center;
+  }
+  .barlinks {
+    display: flex;
+}
+.barlinks a {
+  background-color: transparent;
+      color: var(--letrazulgris);
+      font-size: 1.5rem;
+      margin-right: 0;
+}
+#slider-button{
+  display: none;
+}
+}
